@@ -2,7 +2,7 @@
   "name": "Lab8_Starter",
   "short_name": "Seyed",
   "description": "A collection of Thanksgiving recipes",
-  "start_url": "./index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
